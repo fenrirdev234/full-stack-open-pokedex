@@ -18,4 +18,4 @@ jobs:
       - name: Install dependencies 📥
         run: npm install
       - name: Check for remaining ESLint errors
-        run: npm run lint
+        run: npm run eslint
